@@ -1,43 +1,73 @@
-# 🚀 Interactive Course Catalog
+# <p align="center">Saniya Ahmed</p>
 
-Welcome to my project! This repository demonstrates how to use **JavaScript Objects** to dynamically populate an HTML table with data. It also features custom CSS animations for a personalized touch.
+<p align="center">
+  <strong>Front-End Developer • UI/UX Enthusiast</strong>
+</p>
 
----
-
-## 🎨 Preview
-![Coding Animation](https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif)
-
-### 👋 Greeting
-> **"Thanks for visiting my profile!"**
-> *(This message features a custom typewriter animation in the live project)*
-
----
-
-## 📚 Course Overview
-
-| Course Title | Instructor | Duration | Advanced | Topics |
-| :--- | :--- | :--- | :--- | :--- |
-| **Full-Stack Web Development** | Sarah Jenkins | 12 Weeks | Yes 🚀 | MongoDB, Express, React, Node.js |
-| **Mobile App Design** | Marcus Thorne | 6 Weeks | No | Figma, User Research, Prototyping |
-| **Python for Data Analysis** | Dr. Aris Thorne | 10 Weeks | Yes 🚀 | NumPy, Pandas, Data Visualization |
+<p align="center">
+  <a href="mailto:saniya2012ahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saniya-ahmed-463382377/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/saniyaahmed123"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ How It's Built
+## 👋 About Me
 
-This project focuses on the fundamentals of web development:
+Hi, I'm **Saniya Ahmed**, a dedicated **Front-End Developer** focused on building responsive, clean, and user-friendly web interfaces.
 
-* **HTML5:** Structured the table and container.
-* **CSS3:** Added a **Typewriter Animation** using `@keyframes` and styled the table for a modern look.
-* **JavaScript:**
-    * Stored data in **Object Literals**.
-    * Used **Template Literals** (backticks) to inject data into the DOM.
-    * Accessed nested properties and arrays within objects.
-
-## 🚀 How to Run
-1. Clone this repository.
-2. Open `index.html` in any web browser.
-3. Enjoy the animations and dynamic data!
+* 💻 Developing modern layouts using **HTML & CSS**
+* 📱 Building mobile-first responsive designs with **Bootstrap**
+* 🛠️ Crafting clean and efficient code in **VS Code**
+* ✨ Passionate about **Pixel Perfect UI** and smooth user experiences
 
 ---
-*Created with ❤️ by [Your Name]*
+
+## 🧠 Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+</p>
+
+---
+
+## 📊 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saniyaahmed123&show_icons=true&theme=tokyonight" alt="Saniya's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saniyaahmed123&theme=tokyonight" alt="Saniya's Streak" />
+</p>
+
+---
+
+## 📁 Featured Projects
+
+### 🌐 Responsive Portfolio Website
+**HTML • CSS • Bootstrap**
+A clean and professional portfolio to showcase my skills and projects with a mobile-friendly design.
+
+### 🎨 Creative Landing Pages
+**HTML • CSS**
+A collection of high-quality landing pages built with a focus on typography and layout.
+
+### 🍱 Grid-Based UI Layouts
+**CSS Grid • Flexbox**
+Experimenting with advanced CSS layouts to create modern, organized web structures.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/saniya-ahmed-463382377/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saniya2012ahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  ✨ *Keep Building • Keep Learning • Keep Growing*
+</p>
