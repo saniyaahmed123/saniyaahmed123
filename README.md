@@ -1,64 +1,158 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Saniya%20Ahmed&fontSize=80&animation=fadeIn&fontAlignY=35" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Course Portfolio</title>
+    <style>
+        /* 1. Basic Page Styling */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 50px 20px;
+            margin: 0;
+        }
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Frontend+Developer;Bootstrap+Expert;JavaScript+Enthusiast;Future+Coding+Creator" />
-  </a>
-</p>
+        /* 2. Profile GIF Styling */
+        .profile-gif {
+            border-radius: 20px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+            margin-bottom: 30px;
+            max-width: 100%;
+        }
 
----
+        /* 3. "Thanks for visiting" Typewriter Animation */
+        .welcome-msg {
+            font-size: 28px;
+            font-weight: bold;
+            color: #2c3e50;
+            white-space: nowrap;
+            overflow: hidden;
+            border-right: 3px solid #2ecc71; /* The blinking cursor */
+            width: 0;
+            margin-bottom: 40px;
+            animation: 
+                typing 3s steps(30) forwards, 
+                blink 0.8s infinite;
+        }
 
-### 💫 About Me
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 400px; } /* Adjust width based on text length */
+        }
 
-I'm a developer who enjoys turning complex problems into simple, beautiful interfaces. When I'm not coding in **VS Code**, I'm likely planning content for my new YouTube channel or exploring new **Bootstrap** layouts.
+        @keyframes blink {
+            50% { border-color: transparent; }
+        }
 
-- 🔭 **Current Focus:** Masterminding my YouTube debut.
-- 🌱 **Learning:** Advanced JavaScript patterns and animations.
-- ⚡ **Fun Fact:** I spend more time picking the VS Code theme than actually writing code.
-- 💬 **Ask me about:** Why I'll never give up on `flexbox`.
+        /* 4. Table Styling */
+        table {
+            width: 100%;
+            max-width: 900px;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden; /* Rounds the table corners */
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
 
----
+        th {
+            background-color: #2ecc71;
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-size: 14px;
+            text-transform: uppercase;
+        }
 
-### 🛠️ My Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,vscode,linkedin&perline=7" />
-  </a>
-</p>
+        td {
+            padding: 15px;
+            border-bottom: 1px solid #edf2f7;
+            color: #4a5568;
+            font-size: 15px;
+        }
 
----
+        tr:last-child td {
+            border-bottom: none;
+        }
 
-### 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saniyaahmed123&show_icons=true&theme=dracula&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyaahmed123&layout=compact&theme=dracula&hide_border=true" />
-</p>
+        tr:hover {
+            background-color: #f0fff4;
+        }
+    </style>
+</head>
+<body>
 
----
+    <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" 
+         alt="Coding Animation" 
+         width="300" 
+         class="profile-gif">
 
-### 🐍 The Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saniyaahmed123/saniyaahmed123/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+    <div class="welcome-msg">Thanks for visiting my profile!</div>
 
----
+    <table id="courseTable">
+        </table>
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@YOUR_CHANNEL">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+    <script>
+        // Data Objects (Simple and easy to edit)
+        var course1 = {
+            title: "Full-Stack Web Development",
+            instructor: "Sarah Jenkins",
+            duration: "12 Weeks",
+            isAdvanced: "Yes 🚀",
+            topics: "MongoDB, Express, React, Node.js"
+        };
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saniyaahmed123&label=Profile%20Views&color=BD93F9&style=flat" alt="Profile Views" />
-</p>
+        var course2 = {
+            title: "Mobile App Design",
+            instructor: "Marcus Thorne",
+            duration: "6 Weeks",
+            isAdvanced: "No",
+            topics: "Figma, User Research, Prototyping"
+        };
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=gradient&height=100&section=footer" />
-</p>
+        var course3 = {
+            title: "Python for Data Analysis",
+            instructor: "Dr. Aris Thorne",
+            duration: "10 Weeks",
+            isAdvanced: "Yes 🚀",
+            topics: "NumPy, Pandas, Data Visualization"
+        };
+
+        // Manual injection using Template Literals
+        document.getElementById("courseTable").innerHTML = `
+            <tr>
+                <th>Course Title</th>
+                <th>Instructor</th>
+                <th>Duration</th>
+                <th>Advanced</th>
+                <th>Topics</th>
+            </tr>
+            <tr>
+                <td>${course1.title}</td>
+                <td>${course1.instructor}</td>
+                <td>${course1.duration}</td>
+                <td>${course1.isAdvanced}</td>
+                <td>${course1.topics}</td>
+            </tr>
+            <tr>
+                <td>${course2.title}</td>
+                <td>${course2.instructor}</td>
+                <td>${course2.duration}</td>
+                <td>${course2.isAdvanced}</td>
+                <td>${course2.topics}</td>
+            </tr>
+            <tr>
+                <td>${course3.title}</td>
+                <td>${course3.instructor}</td>
+                <td>${course3.duration}</td>
+                <td>${course3.isAdvanced}</td>
+                <td>${course3.topics}</td>
+            </tr>
+        `;
+    </script>
+</body>
+</html>
