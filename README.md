@@ -3,8 +3,9 @@
 <p align="center">
   <strong>Front-End Developer • UI/UX Enthusiast</strong>
 </p>
-![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Saniya%20Ahmed&fontSize=40&animation=twinkle)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=080A0F&customColorList=1&height=200&section=header&text=Saniya%20Ahmed&fontSize=50&fontColor=2EE6A6&animation=twinkle" />
+</p>
 <p align="center">
   <a href="mailto:saniya2012ahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/saniya-ahmed-463382377/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
