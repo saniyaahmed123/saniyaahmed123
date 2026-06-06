@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/0946a771-5830-41f6-a349-76ee4a64942c
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0946a771-5830-41f6-a349-76ee4a64942c" width="100%" alt="Saniya Ahmed Banner" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=header&text=SANIYA%20AHMED&fontSize=45&fontColor=2EE6A6" alt="Saniya Ahmed" />
 </p>
