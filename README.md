@@ -4,7 +4,7 @@
   <strong>Front-End Developer • UI/UX Enthusiast</strong>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=080A0F&customColorList=1&height=200&section=header&text=Saniya%20Ahmed&fontSize=50&fontColor=2EE6A6&animation=twinkle" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=2EE6A6&background=0D1117&center=true&vCenter=true&width=600&height=120&lines=%3E+SANIYA+AHMED...;%3E+Loading+Scripts...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+FUTURE+WEB+DEVELOPER" alt="Saniya Ahmed Animation" />
 </p>
 <p align="center">
   <a href="mailto:saniya2012ahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
