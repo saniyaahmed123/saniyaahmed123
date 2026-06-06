@@ -2,10 +2,12 @@
   <img src="https://github.com/user-attachments/assets/b6b642fb-c27c-4b59-bae3-1e70a0a5a4ed" width="100%" alt="Saniya Ahmed Banner" />
 </p>
 
-<h3 align="center">🚀 Frontend Web Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=2EE6A6&background=0D111700&center=true&vCenter=true&width=600&height=45&lines=FRONTEND+WEB+DEVELOPER;MASTERING+ES6+JAVASCRIPT;BUILDING+CLEAN+DIGITAL+EXPERIENCES" alt="Typing Animation" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/saniyaahmed">
+  <a href="https://github.com/YOUR_EXACT_GITHUB_USERNAME">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
@@ -18,12 +20,12 @@
 
 ---
 
-### ⚡ Quick Byte
+### ⚡ Operational Overview
 
-I construct clean, structurally sound, and user-focused interfaces. I focus on moving beyond basic layouts into writing highly optimized logic patterns.
+I build responsive, lightweight frontend architectures. I bridge the gap between creative visual layouts and strict programming logic.
 
-- 🛠️ **Current Focus:** Dynamic ES6 JavaScript logic architectures & component-driven design.
-- 🎨 **Goal:** Writing accessible code that looks beautiful and performs flawlessly.
+- 🚀 **Core Target:** Elevating simple interfaces into semantic, interactive web applications.
+- 🧠 **Active Learning:** Deep-diving into asynchronous operations, state logic, and modern responsive structures.
 
 ---
 
@@ -35,24 +37,46 @@ I construct clean, structurally sound, and user-focused interfaces. I focus on m
 
 ---
 
-### 📊 Account Diagnostics
+### 📊 Comprehensive Diagnostics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saniyaahmed&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyaahmed&layout=compact&theme=radical&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="90%" alt="GitHub Stats Dashboard" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_EXACT_GITHUB_USERNAME&theme=radical" width="48%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_EXACT_GITHUB_USERNAME&theme=radical" width="48%" alt="Languages Graph" />
 </p>
 
 ---
 
-### 📂 Featured Build
+### 📂 Interactive Feature Builds
 
-#### 🌐 Architectural Web Showcase
-**HTML5 • CSS3 • JavaScript (ES6) • Bootstrap**
-* A highly responsive digital ecosystem showing modern grid execution and seamless cross-device performance profiles.
-* 🔗 [**View Repository**](https://github.com/saniyaahmed)
+<details>
+<summary>📌 <b>Click to view: Architectural Web Showcase</b></summary>
+<br>
+
+**Built with:** `HTML5` | `CSS3` | `JavaScript (ES6)` | `Bootstrap`
+
+* Features an optimized viewport scaling system designed for seamless cross-platform performance.
+* Clean, modular style sheet structure to make scaling simple.
+* 🔗 [**Launch Repository**](https://github.com/YOUR_EXACT_GITHUB_USERNAME)
+
+</details>
+
+<details>
+<summary>🎨 <b>Click to view: Dynamic Component Suite</b></summary>
+<br>
+
+**Built with:** `JavaScript` | `CSS Variables` | `Canva Asset Engine`
+
+* Focuses heavily on user interactions, customized layout states, and event listeners.
+* 🔗 [**Launch Repository**](https://github.com/YOUR_EXACT_GITHUB_USERNAME)
+
+</details>
 
 ---
 
 <p align="center">
-  ⚡ Clean Code • Structural Design • Continuous Evolution
+  ✨ Continuous Learning • Optimized Architecture • Clean Design
 </p>
