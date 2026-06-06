@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/b6b642fb-c27c-4b59-bae3-1e70a0a5a4ed" width="100%" alt="Saniya Ahmed Banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=2EE6A6&background=0D111700&center=true&vCenter=true&width=600&height=45&lines=FRONTEND+WEB+DEVELOPER;MASTERING+ES6+JAVASCRIPT;BUILDING+CLEAN+DIGITAL+EXPERIENCES" alt="Typing Animation" />
 </p>
 
